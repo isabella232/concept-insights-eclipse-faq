@@ -7,13 +7,13 @@ Rather than limiting findings to traditional text matching, Concept Insights exp
 
 The Concept Insights service however uses concepts and graphs of concepts. It leverages the concept graph of the English version of Wikipedia. The service also creates concept maps for the input data you provide, in this case the Eclipse FAQs. Via the graph the service can find potentially related documents. For example in the Wikipedia article for Lotus Notes it is mentioned that it uses the Eclipse Rich Client Platform. Since there are documents in the Eclipse FAQ with this concept they are returned when searching for the term Lotus Notes.
 
-Check out the [screenshots](https://github.com/IBM-Bluemix/concept-insights-eclipse-faq/tree/master/screenshots) for details. The following screenshot shows the Concept Insights dashboard with the Eclipse corpus.
-
 ![alt text](https://raw.githubusercontent.com/IBM-Bluemix/concept-insights-eclipse-faq/master/screenshots/conceptinsights3.png "Concept Insights Sample")
 
 Another example is a search for 'Ginni Rometty' who is not mentioned in the Eclipse FAQ but the search results contain documents that are associated with the concept 'IBM'.
 
 ![alt text](https://raw.githubusercontent.com/IBM-Bluemix/concept-insights-eclipse-faq/master/screenshots/conceptinsights6.png "Concept Insights Sample")
+
+Check out the [screenshots](https://github.com/IBM-Bluemix/concept-insights-eclipse-faq/tree/master/screenshots) for more samples. 
 
 Authors: Niklas Heidloff [@nheidloff](http://twitter.com/nheidloff) and Hiroaki Komine (hkomine@jp.ibm.com)
 
