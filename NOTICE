@@ -1,0 +1,10 @@
+Sample for Watson Concept Insights - Eclipse FAQ
+https://github.com/IBM-Bluemix/concept-insights-eclipse-faq
+Copyright IBM Corp. 2016
+
+
+The project uses data from https://wiki.eclipse.org/The_Official_Eclipse_FAQs. The data is not part of this project, but downloaded and converted via scripts.
+
+"This FAQ was originally published in Official Eclipse 3.0 FAQs. Copyright 2004, Pearson Education, Inc. All rights reserved. This text is made available here under the terms of the Eclipse Public License v1.0."
+
+"The initial contents for these FAQ pages has come from The Offical Eclipse 3.0 FAQs written by John Arthorne and Chris Laffra. Permission to publish the FAQ book contents here has been graciously offered by Addison-Wesley, publishers of the official Eclipse Series which wouldn't be possible without the great help from Greg Doench."

@@ -1,0 +1,369 @@
+10101,The Eclipse Community,What is Eclipse?,http://wiki.eclipse.org/FAQ_What_is_Eclipse%3F,FAQ What is Eclipse?
+10102,,What is the Eclipse Platform?,http://wiki.eclipse.org/FAQ_What_is_the_Eclipse_Platform%3F,FAQ What is the Eclipse Platform?
+10103,,Where did Eclipse come from?,http://wiki.eclipse.org/FAQ_Where_did_Eclipse_come_from%3F,FAQ Where did Eclipse come from?
+10104,,What is the Eclipse Foundation?,http://wiki.eclipse.org/FAQ_What_is_the_Eclipse_Foundation%3F,FAQ What is the Eclipse Foundation?
+10105,,How can my users tell where Eclipse ends and a product starts?,http://wiki.eclipse.org/FAQ_How_can_my_users_tell_where_Eclipse_ends_and_a_product_starts%3F,FAQ How can my users tell where Eclipse ends and a product starts?
+10106,,What are Eclipse projects and technologies?,http://wiki.eclipse.org/FAQ_What_are_Eclipse_projects_and_technologies%3F,FAQ What are Eclipse projects and technologies?
+10107,,How do I propose my own project?,http://wiki.eclipse.org/FAQ_How_do_I_propose_my_own_project%3F,FAQ How do I propose my own project?
+10108,,Who is building commercial products based on Eclipse?,http://wiki.eclipse.org/FAQ_Who_is_building_commercial_products_based_on_Eclipse%3F,FAQ Who is building commercial products based on Eclipse?
+10109,,What open source projects are based on Eclipse?,http://wiki.eclipse.org/FAQ_What_open_source_projects_are_based_on_Eclipse%3F,FAQ What open source projects are based on Eclipse?
+10110,,What academic research projects are based on Eclipse?,http://wiki.eclipse.org/FAQ_What_academic_research_projects_are_based_on_Eclipse%3F,FAQ What academic research projects are based on Eclipse?
+10111,,Who uses Eclipse in the classroom?,http://wiki.eclipse.org/FAQ_Who_uses_Eclipse_in_the_classroom%3F,FAQ Who uses Eclipse in the classroom?
+10112,,What is an Eclipse Innovation Grant?,http://wiki.eclipse.org/FAQ_What_is_an_Eclipse_Innovation_Grant%3F,FAQ What is an Eclipse Innovation Grant?
+10113,,What Eclipse newsgroups are available?,http://wiki.eclipse.org/FAQ_What_Eclipse_newsgroups_are_available%3F,FAQ What Eclipse newsgroups are available?
+10114,,How do I get access to Eclipse newsgroups?,http://wiki.eclipse.org/FAQ_How_do_I_get_access_to_Eclipse_newsgroups%3F,FAQ How do I get access to Eclipse newsgroups?
+10115,,What Eclipse mailing lists are available?,http://wiki.eclipse.org/FAQ_What_Eclipse_mailing_lists_are_available%3F,FAQ What Eclipse mailing lists are available?
+10116,,What articles on Eclipse have been written?,http://wiki.eclipse.org/FAQ_What_articles_on_Eclipse_have_been_written%3F,FAQ What articles on Eclipse have been written?
+10117,,What books have been written on Eclipse?,http://wiki.eclipse.org/FAQ_What_books_have_been_written_on_Eclipse%3F,FAQ What books have been written on Eclipse?
+10118,,How do I report a bug in Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_report_a_bug_in_Eclipse%3F,FAQ How do I report a bug in Eclipse?
+10119,,How can I search the existing list of bugs in Eclipse?,http://wiki.eclipse.org/FAQ_How_can_I_search_the_existing_list_of_bugs_in_Eclipse%3F,FAQ How can I search the existing list of bugs in Eclipse?
+10120,,What do I do if my feature request is ignored?,http://wiki.eclipse.org/FAQ_What_do_I_do_if_my_feature_request_is_ignored%3F,FAQ What do I do if my feature request is ignored?
+10121,,"Can I get my documentation in PDF form, please?","http://wiki.eclipse.org/FAQ_Can_I_get_my_documentation_in_PDF_form,_please%3F","FAQ Can I get my documentation in PDF form, please?"
+10122,,Where do I find documentation for a given extension point?,http://wiki.eclipse.org/FAQ_Where_do_I_find_documentation_for_a_given_extension_point%3F,FAQ Where do I find documentation for a given extension point?
+10123,,How is Eclipse licensed,http://wiki.eclipse.org/FAQ_How_is_Eclipse_licensed%3F,FAQ How is Eclipse licensed?
+10201,Getting Started,Where do I get and install Eclipse?,http://wiki.eclipse.org/FAQ_Where_do_I_get_and_install_Eclipse%3F,FAQ Where do I get and install Eclipse?
+10202,,How do I run Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_run_Eclipse%3F,FAQ How do I run Eclipse?
+10203,,How do I increase the heap size available to Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_increase_the_heap_size_available_to_Eclipse%3F,FAQ How do I increase the heap size available to Eclipse?
+10204,,Where can I find that elusive .log file?,http://wiki.eclipse.org/FAQ_Where_can_I_find_that_elusive_.log_file%3F,FAQ Where can I find that elusive .log file?
+10205,,Does Eclipse run on any Linux distribution?,http://wiki.eclipse.org/FAQ_Does_Eclipse_run_on_any_Linux_distribution%3F,FAQ Does Eclipse run on any Linux distribution?
+10206,,"I unzipped Eclipse, but it won't start. Why?","http://wiki.eclipse.org/FAQ_I_unzipped_Eclipse,_but_it_won%27t_start._Why%3F","FAQ I unzipped Eclipse, but it won't start. Why?"
+10207,,How do I upgrade Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_upgrade_Eclipse%3F,FAQ How do I upgrade Eclipse?
+10208,,How do I install new plug-ins?,http://wiki.eclipse.org/FAQ_How_do_I_install_new_plug-ins%3F,FAQ How do I install new plug-ins?
+10209,,Can I install plug-ins outside the main install directory?,http://wiki.eclipse.org/FAQ_Can_I_install_plug-ins_outside_the_main_install_directory%3F,FAQ Can I install plug-ins outside the main install directory?
+10210,,How do I remove a plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_remove_a_plug-in%3F,FAQ How do I remove a plug-in?
+10211,,How do I find out what plug-ins have been installed?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_what_plug-ins_have_been_installed%3F,FAQ How do I find out what plug-ins have been installed?
+10212,,Where do I get help?,http://wiki.eclipse.org/FAQ_Where_do_I_get_help%3F,FAQ Where do I get help?
+10213,,How do I report a bug?,http://wiki.eclipse.org/FAQ_How_do_I_report_a_bug%3F,FAQ How do I report a bug?
+10214,,How do I accommodate project layouts that don't fit the Eclipse model?,http://wiki.eclipse.org/FAQ_How_do_I_accommodate_project_layouts_that_don%27t_fit_the_Eclipse_model%3F,FAQ How do I accommodate project layouts that don't fit the Eclipse model?
+10215,,What is new in Eclipse 3.0?,http://wiki.eclipse.org/FAQ_What_is_new_in_Eclipse_3.0%3F,FAQ What is new in Eclipse 3.0?
+10216,,Is Eclipse 3.0 going to break all of my old plug-ins?,http://wiki.eclipse.org/FAQ_Is_Eclipse_3.0_going_to_break_all_of_my_old_plug-ins%3F,FAQ Is Eclipse 3.0 going to break all of my old plug-ins?
+10217,,How do I prevent my plug-in from being broken when I update Eclipse,http://wiki.eclipse.org/FAQ_How_do_I_prevent_my_plug-in_from_being_broken_when_I_update_Eclipse%3F,FAQ How do I prevent my plug-in from being broken when I update Eclipse?
+10301,Java Development in Eclipse,How do I get started if I am new to Java and Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_get_started_if_I_am_new_to_Java_and_Eclipse%3F,FAQ How do I get started if I am new to Java and Eclipse?
+10302,,How do I show/hide files like classpath in the Navigator?,http://wiki.eclipse.org/FAQ_How_do_I_show/hide_files_like_classpath_in_the_Navigator%3F,FAQ How do I show/hide files like classpath in the Navigator?
+10303,,How do I link the Navigator with the currently active editor?,http://wiki.eclipse.org/FAQ_How_do_I_link_the_Navigator_with_the_currently_active_editor%3F,FAQ How do I link the Navigator with the currently active editor?
+10304,,How do I use the keyboard to traverse between editors?,http://wiki.eclipse.org/FAQ_How_do_I_use_the_keyboard_to_traverse_between_editors%3F,FAQ How do I use the keyboard to traverse between editors?
+10305,,How can I rearrange Eclipse views and editors?,http://wiki.eclipse.org/FAQ_How_can_I_rearrange_Eclipse_views_and_editors%3F,FAQ How can I rearrange Eclipse views and editors?
+10306,,Why doesn't my program start when I click the Run button?,http://wiki.eclipse.org/FAQ_Why_doesn%27t_my_program_start_when_I_click_the_Run_button%3F,FAQ Why doesn't my program start when I click the Run button?
+10307,,How do I turn off autobuilding of Java code?,http://wiki.eclipse.org/FAQ_How_do_I_turn_off_autobuilding_of_Java_code%3F,FAQ How do I turn off autobuilding of Java code?
+10308,,How do I hide referenced libraries in the Package Explorer?,http://wiki.eclipse.org/FAQ_How_do_I_hide_referenced_libraries_in_the_Package_Explorer%3F,FAQ How do I hide referenced libraries in the Package Explorer?
+10309,,Where do my class files disappear to?,http://wiki.eclipse.org/FAQ_Where_do_my_class_files_disappear_to%3F,FAQ Where do my class files disappear to?
+10310,,What editor keyboard shortcuts are available?,http://wiki.eclipse.org/FAQ_What_editor_keyboard_shortcuts_are_available%3F,FAQ What editor keyboard shortcuts are available?
+10311,,How do I stop the Java editor from showing a single method at once?,http://wiki.eclipse.org/FAQ_How_do_I_stop_the_Java_editor_from_showing_a_single_method_at_once%3F,FAQ How do I stop the Java editor from showing a single method at once?
+10312,,How do I open a type in a Java editor?,http://wiki.eclipse.org/FAQ_How_do_I_open_a_type_in_a_Java_editor%3F,FAQ How do I open a type in a Java editor?
+10313,,How do I control the Java formatter?,http://wiki.eclipse.org/FAQ_How_do_I_control_the_Java_formatter%3F,FAQ How do I control the Java formatter?
+10314,,How do I choose my own compiler?,http://wiki.eclipse.org/FAQ_How_do_I_choose_my_own_compiler%3F,FAQ How do I choose my own compiler?
+10315,,What Java refactoring support is available?,http://wiki.eclipse.org/FAQ_What_Java_refactoring_support_is_available%3F,FAQ What Java refactoring support is available?
+10316,,How can Content Assist make me the fastest coder ever?,http://wiki.eclipse.org/FAQ_How_can_Content_Assist_make_me_the_fastest_coder_ever%3F,FAQ How can Content Assist make me the fastest coder ever?
+10317,,How can templates make me the fastest coder ever?,http://wiki.eclipse.org/FAQ_How_can_templates_make_me_the_fastest_coder_ever%3F,FAQ How can templates make me the fastest coder ever?
+10318,,What is a Quick Fix?,http://wiki.eclipse.org/FAQ_What_is_a_Quick_Fix%3F,FAQ What is a Quick Fix?
+10319,,How do I profile my Java program?,http://wiki.eclipse.org/FAQ_How_do_I_profile_my_Java_program%3F,FAQ How do I profile my Java program?
+10320,,How do I debug my Java program?,http://wiki.eclipse.org/FAQ_How_do_I_debug_my_Java_program%3F,FAQ How do I debug my Java program?
+10321,,How do I find out the command-line arguments of a launched program?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_the_command-line_arguments_of_a_launched_program%3F,FAQ How do I find out the command-line arguments of a launched program?
+10322,,What is hot code replace?,http://wiki.eclipse.org/FAQ_What_is_hot_code_replace%3F,FAQ What is hot code replace?
+10323,,How do I set a conditional breakpoint?,http://wiki.eclipse.org/FAQ_How_do_I_set_a_conditional_breakpoint%3F,FAQ How do I set a conditional breakpoint?
+10324,,How do I find all Java methods that return a String?,http://wiki.eclipse.org/FAQ_How_do_I_find_all_Java_methods_that_return_a_String%3F,FAQ How do I find all Java methods that return a String?
+10325,,What can I view in the Hierarchy view?,http://wiki.eclipse.org/FAQ_What_can_I_view_in_the_Hierarchy_view%3F,FAQ What can I view in the Hierarchy view?
+10326,,How do I add an extra library to my project's classpath?,http://wiki.eclipse.org/FAQ_How_do_I_add_an_extra_library_to_my_project%27s_classpath%3F,FAQ How do I add an extra library to my project's classpath?
+10327,,What is the advantage of sharing the project file in a repository?,http://wiki.eclipse.org/FAQ_What_is_the_advantage_of_sharing_the_project_file_in_a_repository%3F,FAQ What is the advantage of sharing the project file in a repository?
+10328,,What is the function of the .cvsignore file?,http://wiki.eclipse.org/FAQ_What_is_the_function_of_the_.cvsignore_file%3F,FAQ What is the function of the .cvsignore file?
+10329,,How do I set up a Java project to share in a repository?,http://wiki.eclipse.org/FAQ_How_do_I_set_up_a_Java_project_to_share_in_a_repository%3F,FAQ How do I set up a Java project to share in a repository?
+10330,,Why does the Eclipse compiler create a different serialVersionUID from javac,http://wiki.eclipse.org/FAQ_Why_does_the_Eclipse_compiler_create_a_different_serialVersionUID_from_javac%3F,FAQ Why does the Eclipse compiler create a different serialVersionUID from javac?
+10401,Plug-In Development Environment,How do I create a plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_plug-in%3F,FAQ How do I create a plug-in?
+10402,,How do I use the plug-in Manifest Editor?,http://wiki.eclipse.org/FAQ_How_do_I_use_the_plug-in_Manifest_Editor%3F,FAQ How do I use the plug-in Manifest Editor?
+10403,,Why doesn't my plug-in build correctly?,http://wiki.eclipse.org/FAQ_Why_doesn%27t_my_plug-in_build_correctly%3F,FAQ Why doesn't my plug-in build correctly?
+10404,,How do I run my plug-in in another instance of Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_run_my_plug-in_in_another_instance_of_Eclipse%3F,FAQ How do I run my plug-in in another instance of Eclipse?
+10405,,What causes my plug-in to build but not to load in a runtime workbench?,http://wiki.eclipse.org/FAQ_What_causes_my_plug-in_to_build_but_not_to_load_in_a_runtime_workbench%3F,FAQ What causes my plug-in to build but not to load in a runtime workbench?
+10406,,"My runtime workbench runs, but my plug-in does not show. Why?","http://wiki.eclipse.org/FAQ_My_runtime_workbench_runs,_but_my_plug-in_does_not_show._Why%3F","FAQ My runtime workbench runs, but my plug-in does not show. Why?"
+10407,,How do I add images and other resources to a runtime JAR file?,http://wiki.eclipse.org/FAQ_How_do_I_add_images_and_other_resources_to_a_runtime_JAR_file%3F,FAQ How do I add images and other resources to a runtime JAR file?
+10408,,Can I add icons declared by my plugin.xml in the runtime JAR?,http://wiki.eclipse.org/FAQ_Can_I_add_icons_declared_by_my_plugin.xml_in_the_runtime_JAR%3F,FAQ Can I add icons declared by my plugin.xml in the runtime JAR?
+10409,,When does PDE change a plug-in's Java build path?,http://wiki.eclipse.org/FAQ_When_does_PDE_change_a_plug-in%27s_Java_build_path%3F,FAQ When does PDE change a plug-in's Java build path?
+10410,,What is a PDE JUnit test?,http://wiki.eclipse.org/FAQ_What_is_a_PDE_JUnit_test%3F,FAQ What is a PDE JUnit test?
+10411,,Where can I find the Eclipse plug-ins?,http://wiki.eclipse.org/FAQ_Where_can_I_find_the_Eclipse_plug-ins%3F,FAQ Where can I find the Eclipse plug-ins?
+10412,,How do I find a particular class from an Eclipse plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_find_a_particular_class_from_an_Eclipse_plug-in%3F,FAQ How do I find a particular class from an Eclipse plug-in?
+10413,,Why do I get a 'plug-in was unable to load class' error when I activate a menu or toolbar action?,http://wiki.eclipse.org/FAQ_Why_do_I_get_a_%27plug-in_was_unable_to_load_class%27_error_when_I_activate_a_menu_or_toolbar_action%3F,FAQ Why do I get a 'plug-in was unable to load class' error when I activate a menu or toolbar action?
+10414,,What is the use of the build.xml file?,http://wiki.eclipse.org/FAQ_What_is_the_use_of_the_build.xml_file%3F,FAQ What is the use of the build.xml file?
+10415,,How do I prevent my build.xml file from being overwritten?,http://wiki.eclipse.org/FAQ_How_do_I_prevent_my_build.xml_file_from_being_overwritten%3F,FAQ How do I prevent my build.xml file from being overwritten?
+10416,,When is the build.xml script executed?,http://wiki.eclipse.org/FAQ_When_is_the_build.xml_script_executed%3F,FAQ When is the build.xml script executed?
+10417,,How do I declare my own extension point?,http://wiki.eclipse.org/FAQ_How_do_I_declare_my_own_extension_point%3F,FAQ How do I declare my own extension point?
+10418,,How do I find all the plug-ins that contribute to my extension point?,http://wiki.eclipse.org/FAQ_How_do_I_find_all_the_plug-ins_that_contribute_to_my_extension_point%3F,FAQ How do I find all the plug-ins that contribute to my extension point?
+10419,,Why is the interface for my new extension point not visible?,http://wiki.eclipse.org/FAQ_Why_is_the_interface_for_my_new_extension_point_not_visible%3F,FAQ Why is the interface for my new extension point not visible?
+10420,,Can my extension point schema contain nested elements?,http://wiki.eclipse.org/FAQ_Can_my_extension_point_schema_contain_nested_elements%3F,FAQ Can my extension point schema contain nested elements?
+10421,,How do I create a feature?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_feature%3F,FAQ How do I create a feature?
+10422,,How do I synchronize versions between a feature and its plug-in(s)?,http://wiki.eclipse.org/FAQ_How_do_I_synchronize_versions_between_a_feature_and_its_plug-in(s)%3F,FAQ How do I synchronize versions between a feature and its plug-in(s)?
+10423,,What is the Update Manager?,http://wiki.eclipse.org/FAQ_What_is_the_Update_Manager%3F,FAQ What is the Update Manager?
+10424,,How do I create an update site (site.xml)?,http://wiki.eclipse.org/FAQ_How_do_I_create_an_update_site_(site.xml)%3F,FAQ How do I create an update site (site.xml)?
+10425,,Why does my update site need a license,http://wiki.eclipse.org/FAQ_Why_does_my_update_site_need_a_license%3F,FAQ Why does my update site need a license?
+10501,All about Plug-ins,What is a plug-in?,http://wiki.eclipse.org/FAQ_What_is_a_plug-in%3F,FAQ What is a plug-in?
+10502,,Do I use plugin or plug-in?,http://wiki.eclipse.org/FAQ_Do_I_use_plugin_or_plug-in%3F,FAQ Do I use plugin or plug-in?
+10503,,What is the plug-in manifest file (plugin.xml)?,http://wiki.eclipse.org/FAQ_What_is_the_plug-in_manifest_file_(plugin.xml)%3F,FAQ What is the plug-in manifest file (plugin.xml)?
+10504,,How do I make my plug-in connect to other plug-ins?,http://wiki.eclipse.org/FAQ_How_do_I_make_my_plug-in_connect_to_other_plug-ins%3F,FAQ How do I make my plug-in connect to other plug-ins?
+10505,,What are extensions and extension points?,http://wiki.eclipse.org/FAQ_What_are_extensions_and_extension_points%3F,FAQ What are extensions and extension points?
+10506,,What is an extension point schema?,http://wiki.eclipse.org/FAQ_What_is_an_extension_point_schema%3F,FAQ What is an extension point schema?
+10507,,How do I find out more about a certain extension point?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_more_about_a_certain_extension_point%3F,FAQ How do I find out more about a certain extension point?
+10508,,When does a plug-in get started?,http://wiki.eclipse.org/FAQ_When_does_a_plug-in_get_started%3F,FAQ When does a plug-in get started?
+10509,,Where do plug-ins store their state?,http://wiki.eclipse.org/FAQ_Where_do_plug-ins_store_their_state%3F,FAQ Where do plug-ins store their state?
+10510,,How do I find out the install location of a plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_the_install_location_of_a_plug-in%3F,FAQ How do I find out the install location of a plug-in?
+10511,,What is the classpath of a plug-in?,http://wiki.eclipse.org/FAQ_What_is_the_classpath_of_a_plug-in%3F,FAQ What is the classpath of a plug-in?
+10512,,How do I add a library to the classpath of a plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_add_a_library_to_the_classpath_of_a_plug-in%3F,FAQ How do I add a library to the classpath of a plug-in?
+10513,,How can I share a JAR among various plug-ins?,http://wiki.eclipse.org/FAQ_How_can_I_share_a_JAR_among_various_plug-ins%3F,FAQ How can I share a JAR among various plug-ins?
+10514,,How do I use the context class loader in Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_use_the_context_class_loader_in_Eclipse%3F,FAQ How do I use the context class loader in Eclipse?
+10515,,Why doesn't Eclipse play well with Xerces?,http://wiki.eclipse.org/FAQ_Why_doesn%27t_Eclipse_play_well_with_Xerces%3F,FAQ Why doesn't Eclipse play well with Xerces?
+10516,,What is a plug-in fragment?,http://wiki.eclipse.org/FAQ_What_is_a_plug-in_fragment%3F,FAQ What is a plug-in fragment?
+10517,,Can fragments be used to patch a plug-in?,http://wiki.eclipse.org/FAQ_Can_fragments_be_used_to_patch_a_plug-in%3F,FAQ Can fragments be used to patch a plug-in?
+10518,,What is a configuration?,http://wiki.eclipse.org/FAQ_What_is_a_configuration%3F,FAQ What is a configuration?
+10519,,How do I find out whether the Eclipse Platform is running?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_whether_the_Eclipse_Platform_is_running%3F,FAQ How do I find out whether the Eclipse Platform is running?
+10520,,Where does System.out and System.err output go?,http://wiki.eclipse.org/FAQ_Where_does_System.out_and_System.err_output_go%3F,FAQ Where does System.out and System.err output go?
+10521,,How do I locate the owner plug-in from a given class?,http://wiki.eclipse.org/FAQ_How_do_I_locate_the_owner_plug-in_from_a_given_class%3F,FAQ How do I locate the owner plug-in from a given class?
+10522,,How does OSGi and the new runtime affect me?,http://wiki.eclipse.org/FAQ_How_does_OSGi_and_the_new_runtime_affect_me%3F,FAQ How does OSGi and the new runtime affect me?
+10523,,What is a dynamic plug-in?,http://wiki.eclipse.org/FAQ_What_is_a_dynamic_plug-in%3F,FAQ What is a dynamic plug-in?
+10524,,How do I make my plug-in dynamic enabled?,http://wiki.eclipse.org/FAQ_How_do_I_make_my_plug-in_dynamic_enabled%3F,FAQ How do I make my plug-in dynamic enabled?
+10525,,How do I make my plug-in dynamic aware?,http://wiki.eclipse.org/FAQ_How_do_I_make_my_plug-in_dynamic_aware%3F,FAQ How do I make my plug-in dynamic aware?
+10526,,How do I use progress monitors?,http://wiki.eclipse.org/FAQ_How_do_I_use_progress_monitors%3F,FAQ How do I use progress monitors?
+10601,Runtime Facilities,How do I use a SubProgressMonitor?,http://wiki.eclipse.org/FAQ_How_do_I_use_a_SubProgressMonitor%3F,FAQ How do I use a SubProgressMonitor?
+10602,,How do I use the platform logging facility?,http://wiki.eclipse.org/FAQ_How_do_I_use_the_platform_logging_facility%3F,FAQ How do I use the platform logging facility?
+10603,,How do I use the platform debug tracing facility,http://wiki.eclipse.org/FAQ_How_do_I_use_the_platform_debug_tracing_facility,FAQ How do I use the platform debug tracing facility
+10604,,How do I load and save plug-in preferences?,http://wiki.eclipse.org/FAQ_How_do_I_load_and_save_plug-in_preferences%3F,FAQ How do I load and save plug-in preferences?
+10605,,How do I use the preference service?,http://wiki.eclipse.org/FAQ_How_do_I_use_the_preference_service%3F,FAQ How do I use the preference service?
+10606,,What is a preference scope?,http://wiki.eclipse.org/FAQ_What_is_a_preference_scope%3F,FAQ What is a preference scope?
+10607,,How do I use IAdaptable and IAdapterFactory?,http://wiki.eclipse.org/FAQ_How_do_I_use_IAdaptable_and_IAdapterFactory%3F,FAQ How do I use IAdaptable and IAdapterFactory?
+10608,,Does the platform have support for concurrency?,http://wiki.eclipse.org/FAQ_Does_the_platform_have_support_for_concurrency%3F,FAQ Does the platform have support for concurrency?
+10609,,How do I prevent two jobs from running at the same time?,http://wiki.eclipse.org/FAQ_How_do_I_prevent_two_jobs_from_running_at_the_same_time%3F,FAQ How do I prevent two jobs from running at the same time?
+10610,,What is the purpose of job families?,http://wiki.eclipse.org/FAQ_What_is_the_purpose_of_job_families%3F,FAQ What is the purpose of job families?
+10611,,How do I find out whether a particular job is running?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_whether_a_particular_job_is_running%3F,FAQ How do I find out whether a particular job is running?
+10612,,How can I track the lifecycle of jobs?,http://wiki.eclipse.org/FAQ_How_can_I_track_the_lifecycle_of_jobs%3F,FAQ How can I track the lifecycle of jobs?
+10613,,How do I create a repeating background task,http://wiki.eclipse.org/FAQ_How_do_I_create_a_repeating_background_task%3F,FAQ How do I create a repeating background task?
+10701,Standard Widget Toolkit (SWT),What is SWT?,http://wiki.eclipse.org/FAQ_What_is_SWT%3F,FAQ What is SWT?
+10702,,Why does Eclipse use SWT?,http://wiki.eclipse.org/FAQ_Why_does_Eclipse_use_SWT%3F,FAQ Why does Eclipse use SWT?
+10703,,Can I use SWT outside Eclipse for my own project?,http://wiki.eclipse.org/FAQ_Can_I_use_SWT_outside_Eclipse_for_my_own_project%3F,FAQ Can I use SWT outside Eclipse for my own project?
+10704,,How do I configure an Eclipse Java project to use SWT?,http://wiki.eclipse.org/FAQ_How_do_I_configure_an_Eclipse_Java_project_to_use_SWT%3F,FAQ How do I configure an Eclipse Java project to use SWT?
+10705,,How do I create an executable JAR file for a stand-alone SWT program?,http://wiki.eclipse.org/FAQ_How_do_I_create_an_executable_JAR_file_for_a_stand-alone_SWT_program%3F,FAQ How do I create an executable JAR file for a stand-alone SWT program?
+10706,,Are there any visual composition editors available for SWT?,http://wiki.eclipse.org/FAQ_Are_there_any_visual_composition_editors_available_for_SWT%3F,FAQ Are there any visual composition editors available for SWT?
+10707,,"Why do I have to dispose of colors, fonts, and images?","http://wiki.eclipse.org/FAQ_Why_do_I_have_to_dispose_of_colors,_fonts,_and_images%3F","FAQ Why do I have to dispose of colors, fonts, and images?"
+10708,,Why do I get an invalid thread access exception?,http://wiki.eclipse.org/FAQ_Why_do_I_get_an_invalid_thread_access_exception%3F,FAQ Why do I get an invalid thread access exception?
+10709,,How do I get a Display instance?,http://wiki.eclipse.org/FAQ_How_do_I_get_a_Display_instance%3F,FAQ How do I get a Display instance?
+10710,,How do I prompt the user to select a file or a directory?,http://wiki.eclipse.org/FAQ_How_do_I_prompt_the_user_to_select_a_file_or_a_directory%3F,FAQ How do I prompt the user to select a file or a directory?
+10711,,How do I display a Web page in SWT?,http://wiki.eclipse.org/FAQ_How_do_I_display_a_Web_page_in_SWT%3F,FAQ How do I display a Web page in SWT?
+10712,,How do I embed AWT and Swing inside SWT?,http://wiki.eclipse.org/FAQ_How_do_I_embed_AWT_and_Swing_inside_SWT%3F,FAQ How do I embed AWT and Swing inside SWT?
+10713,,Where can I find more information on SWT,http://wiki.eclipse.org/FAQ_Where_can_I_find_more_information_on_SWT%3F,FAQ Where can I find more information on SWT?
+10801,Jface,What is a viewer?,http://wiki.eclipse.org/FAQ_What_is_a_viewer%3F,FAQ What is a viewer?
+10802,,What are content and label providers?,http://wiki.eclipse.org/FAQ_What_are_content_and_label_providers%3F,FAQ What are content and label providers?
+10803,,What kinds of viewers does JFace provide?,http://wiki.eclipse.org/FAQ_What_kinds_of_viewers_does_JFace_provide%3F,FAQ What kinds of viewers does JFace provide?
+10804,,Why should I use a viewer?,http://wiki.eclipse.org/FAQ_Why_should_I_use_a_viewer%3F,FAQ Why should I use a viewer?
+10805,,How do I sort the contents of a viewer?,http://wiki.eclipse.org/FAQ_How_do_I_sort_the_contents_of_a_viewer%3F,FAQ How do I sort the contents of a viewer?
+10806,,How do I filter the contents of a viewer?,http://wiki.eclipse.org/FAQ_How_do_I_filter_the_contents_of_a_viewer%3F,FAQ How do I filter the contents of a viewer?
+10807,,How do I use properties to optimize a viewer?,http://wiki.eclipse.org/FAQ_How_do_I_use_properties_to_optimize_a_viewer%3F,FAQ How do I use properties to optimize a viewer?
+10808,,What is a label decorator?,http://wiki.eclipse.org/FAQ_What_is_a_label_decorator%3F,FAQ What is a label decorator?
+10809,,How do I use image and font registries?,http://wiki.eclipse.org/FAQ_How_do_I_use_image_and_font_registries%3F,FAQ How do I use image and font registries?
+10810,,What is a wizard?,http://wiki.eclipse.org/FAQ_What_is_a_wizard%3F,FAQ What is a wizard?
+10811,,How do I specify the order of pages in a wizard?,http://wiki.eclipse.org/FAQ_How_do_I_specify_the_order_of_pages_in_a_wizard%3F,FAQ How do I specify the order of pages in a wizard?
+10812,,How can I reuse wizard pages in more than one wizard?,http://wiki.eclipse.org/FAQ_How_can_I_reuse_wizard_pages_in_more_than_one_wizard%3F,FAQ How can I reuse wizard pages in more than one wizard?
+10813,,Can I reuse wizards from other plug-ins?,http://wiki.eclipse.org/FAQ_Can_I_reuse_wizards_from_other_plug-ins%3F,FAQ Can I reuse wizards from other plug-ins?
+10814,,How do I make my wizard appear in the UI?,http://wiki.eclipse.org/FAQ_How_do_I_make_my_wizard_appear_in_the_UI%3F,FAQ How do I make my wizard appear in the UI?
+10815,,How do I run a lengthy process in a wizard?,http://wiki.eclipse.org/FAQ_How_do_I_run_a_lengthy_process_in_a_wizard%3F,FAQ How do I run a lengthy process in a wizard?
+10816,,How do I launch the preference page that belongs to my plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_launch_the_preference_page_that_belongs_to_my_plug-in%3F,FAQ How do I launch the preference page that belongs to my plug-in?
+10817,,How do I ask a simple yes or no question?,http://wiki.eclipse.org/FAQ_How_do_I_ask_a_simple_yes_or_no_question%3F,FAQ How do I ask a simple yes or no question?
+10818,,How do I inform the user of a problem?,http://wiki.eclipse.org/FAQ_How_do_I_inform_the_user_of_a_problem%3F,FAQ How do I inform the user of a problem?
+10819,,How do I create a dialog with a details area?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_dialog_with_a_details_area%3F,FAQ How do I create a dialog with a details area?
+10820,,How do I set the title of a custom dialog?,http://wiki.eclipse.org/FAQ_How_do_I_set_the_title_of_a_custom_dialog%3F,FAQ How do I set the title of a custom dialog?
+10821,,How do I save settings for a dialog or wizard?,http://wiki.eclipse.org/FAQ_How_do_I_save_settings_for_a_dialog_or_wizard%3F,FAQ How do I save settings for a dialog or wizard?
+10822,,How to decorate a TableViewer or TreeViewer with Columns?,http://wiki.eclipse.org/FAQ_How_to_decorate_a_TableViewer_or_TreeViewer_with_Columns%3F,FAQ How to decorate a TableViewer or TreeViewer with Columns?
+10823,,How do I configure my Eclipse project to use stand-alone JFace?,http://wiki.eclipse.org/FAQ_How_do_I_configure_my_Eclipse_project_to_use_stand-alone_JFace%3F,FAQ How do I configure my Eclipse project to use stand-alone JFace?
+10824,,How do I deploy a stand-alone JFace application?,http://wiki.eclipse.org/FAQ_How_do_I_deploy_a_stand-alone_JFace_application%3F,FAQ How do I deploy a stand-alone JFace application?
+10901,Generic Workbench,"Pages, parts, sites, windows: What is all this stuff?","http://wiki.eclipse.org/FAQ_Pages,_parts,_sites,_windows:_What_is_all_this_stuff%3F","FAQ Pages, parts, sites, windows: What is all this stuff?"
+10902,,How do I find out what object is selected?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_what_object_is_selected%3F,FAQ How do I find out what object is selected?
+10903,,How do I find out what view or editor is selected?,http://wiki.eclipse.org/FAQ_How_do_I_find_out_what_view_or_editor_is_selected%3F,FAQ How do I find out what view or editor is selected?
+10904,,How do I find the active workbench page?,http://wiki.eclipse.org/FAQ_How_do_I_find_the_active_workbench_page%3F,FAQ How do I find the active workbench page?
+10905,,How do I show progress on the workbench status line?,http://wiki.eclipse.org/FAQ_How_do_I_show_progress_on_the_workbench_status_line%3F,FAQ How do I show progress on the workbench status line?
+10906,,Why should I use the new progress service?,http://wiki.eclipse.org/FAQ_Why_should_I_use_the_new_progress_service%3F,FAQ Why should I use the new progress service?
+10907,,How do I write a message to the workbench status line?,http://wiki.eclipse.org/FAQ_How_do_I_write_a_message_to_the_workbench_status_line%3F,FAQ How do I write a message to the workbench status line?
+10908,,How do I create a label decorator declaratively?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_label_decorator_declaratively%3F,FAQ How do I create a label decorator declaratively?
+10909,,How do I add label decorations to my viewer?,http://wiki.eclipse.org/FAQ_How_do_I_add_label_decorations_to_my_viewer%3F,FAQ How do I add label decorations to my viewer?
+10910,,How do I make the workbench shutdown?,http://wiki.eclipse.org/FAQ_How_do_I_make_the_workbench_shutdown%3F,FAQ How do I make the workbench shutdown?
+10911,,How can I use IWorkbenchAdapter to display my model elements?,http://wiki.eclipse.org/FAQ_How_can_I_use_IWorkbenchAdapter_to_display_my_model_elements%3F,FAQ How can I use IWorkbenchAdapter to display my model elements?
+10912,,How do I create my own preference page?,http://wiki.eclipse.org/FAQ_How_do_I_create_my_own_preference_page%3F,FAQ How do I create my own preference page?
+10913,,How do I use property pages?,http://wiki.eclipse.org/FAQ_How_do_I_use_property_pages%3F,FAQ How do I use property pages?
+10914,,How do I open a Property dialog?,http://wiki.eclipse.org/FAQ_How_do_I_open_a_Property_dialog%3F,FAQ How do I open a Property dialog?
+10915,,"How do I add my wizard to the New, Import, or Export menu categories?","http://wiki.eclipse.org/FAQ_How_do_I_add_my_wizard_to_the_New,_Import,_or_Export_menu_categories%3F","FAQ How do I add my wizard to the New, Import, or Export menu categories?"
+10916,,Can I activate my plug-in when the workbench starts?,http://wiki.eclipse.org/FAQ_Can_I_activate_my_plug-in_when_the_workbench_starts%3F,FAQ Can I activate my plug-in when the workbench starts?
+10917,,How do I create an image registry for my plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_create_an_image_registry_for_my_plug-in%3F,FAQ How do I create an image registry for my plug-in?
+10918,,How do I use images defined by other plug-ins?,http://wiki.eclipse.org/FAQ_How_do_I_use_images_defined_by_other_plug-ins%3F,FAQ How do I use images defined by other plug-ins?
+10919,,How do I show progress for things happening in the background?,http://wiki.eclipse.org/FAQ_How_do_I_show_progress_for_things_happening_in_the_background%3F,FAQ How do I show progress for things happening in the background?
+10920,,How do I switch from using a Progress dialog to the Progress view?,http://wiki.eclipse.org/FAQ_How_do_I_switch_from_using_a_Progress_dialog_to_the_Progress_view%3F,FAQ How do I switch from using a Progress dialog to the Progress view?
+10921,,Can I make a job run in the UI thread?,http://wiki.eclipse.org/FAQ_Can_I_make_a_job_run_in_the_UI_thread%3F,FAQ Can I make a job run in the UI thread?
+10922,,Are there any special Eclipse UI guidelines?,http://wiki.eclipse.org/FAQ_Are_there_any_special_Eclipse_UI_guidelines%3F,FAQ Are there any special Eclipse UI guidelines?
+10923,,Why do the names of some interfaces end with the digit 2?,http://wiki.eclipse.org/FAQ_Why_do_the_names_of_some_interfaces_end_with_the_digit_2%3F,FAQ Why do the names of some interfaces end with the digit 2?
+11001,Perspectives and Views,How do I create a new perspective?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_new_perspective%3F,FAQ How do I create a new perspective?
+11002,,How can I add my views and actions to an existing perspective?,http://wiki.eclipse.org/FAQ_How_can_I_add_my_views_and_actions_to_an_existing_perspective%3F,FAQ How can I add my views and actions to an existing perspective?
+11003,,How do I show a given perspective?,http://wiki.eclipse.org/FAQ_How_do_I_show_a_given_perspective%3F,FAQ How do I show a given perspective?
+11004,,What is the difference between a perspective and a workbench page?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_perspective_and_a_workbench_page%3F,FAQ What is the difference between a perspective and a workbench page?
+11005,,How do I create fixed views and perspectives?,http://wiki.eclipse.org/FAQ_How_do_I_create_fixed_views_and_perspectives%3F,FAQ How do I create fixed views and perspectives?
+11006,,What is a view?,http://wiki.eclipse.org/FAQ_What_is_a_view%3F,FAQ What is a view?
+11007,,What is the difference between a view and a viewer?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_view_and_a_viewer%3F,FAQ What is the difference between a view and a viewer?
+11008,,How do I create my own view?,http://wiki.eclipse.org/FAQ_How_do_I_create_my_own_view%3F,FAQ How do I create my own view?
+11009,,How do I set the size or position of my view?,http://wiki.eclipse.org/FAQ_How_do_I_set_the_size_or_position_of_my_view%3F,FAQ How do I set the size or position of my view?
+11010,,"Why can't I control when, where, and how my view is presented?","http://wiki.eclipse.org/FAQ_Why_can%27t_I_control_when,_where,_and_how_my_view_is_presented%3F","FAQ Why can't I control when, where, and how my view is presented?"
+11011,,How will my view show up in the Show View menu?,http://wiki.eclipse.org/FAQ_How_will_my_view_show_up_in_the_Show_View_menu%3F,FAQ How will my view show up in the Show View menu?
+11012,,How do I make my view appear in the Show In menu?,http://wiki.eclipse.org/FAQ_How_do_I_make_my_view_appear_in_the_Show_In_menu%3F,FAQ How do I make my view appear in the Show In menu?
+11013,,How do I add actions to a view's menu and toolbar?,http://wiki.eclipse.org/FAQ_How_do_I_add_actions_to_a_view%27s_menu_and_toolbar%3F,FAQ How do I add actions to a view's menu and toolbar?
+11014,,How do I make a view respond to selection changes in another view?,http://wiki.eclipse.org/FAQ_How_do_I_make_a_view_respond_to_selection_changes_in_another_view%3F,FAQ How do I make a view respond to selection changes in another view?
+11015,,How does a view persist its state between sessions?,http://wiki.eclipse.org/FAQ_How_does_a_view_persist_its_state_between_sessions%3F,FAQ How does a view persist its state between sessions?
+11016,,How do I open multiple instances of the same view?,http://wiki.eclipse.org/FAQ_How_do_I_open_multiple_instances_of_the_same_view%3F,FAQ How do I open multiple instances of the same view?
+11101,Generic Editors,What is the difference between a view and an editor?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_view_and_an_editor%3F,FAQ What is the difference between a view and an editor?
+11102,,How do I open an editor programmatically?,http://wiki.eclipse.org/FAQ_How_do_I_open_an_editor_programmatically%3F,FAQ How do I open an editor programmatically?
+11103,,How do I open an external editor?,http://wiki.eclipse.org/FAQ_How_do_I_open_an_external_editor%3F,FAQ How do I open an external editor?
+11104,,How do I dynamically register an editor to handle a given extension?,http://wiki.eclipse.org/FAQ_How_do_I_dynamically_register_an_editor_to_handle_a_given_extension%3F,FAQ How do I dynamically register an editor to handle a given extension?
+11105,,How do I switch to vi or emacs-style key bindings?,http://wiki.eclipse.org/FAQ_How_do_I_switch_to_vi_or_emacs-style_key_bindings%3F,FAQ How do I switch to vi or emacs-style key bindings?
+11106,,How do I create my own editor?,http://wiki.eclipse.org/FAQ_How_do_I_create_my_own_editor%3F,FAQ How do I create my own editor?
+11107,,How do I enable the Save and Revert actions?,http://wiki.eclipse.org/FAQ_How_do_I_enable_the_Save_and_Revert_actions%3F,FAQ How do I enable the Save and Revert actions?
+11108,,"How do I enable global actions such as Cut, Paste, and Print in my editor?","http://wiki.eclipse.org/FAQ_How_do_I_enable_global_actions_such_as_Cut,_Paste,_and_Print_in_my_editor%3F","FAQ How do I enable global actions such as Cut, Paste, and Print in my editor?"
+11109,,How do I hook my editor to the Back and Forward buttons?,http://wiki.eclipse.org/FAQ_How_do_I_hook_my_editor_to_the_Back_and_Forward_buttons%3F,FAQ How do I hook my editor to the Back and Forward buttons?
+11110,,"How do I create a form-based editor, such as the plug-in Manifest Editor?","http://wiki.eclipse.org/FAQ_How_do_I_create_a_form-based_editor,_such_as_the_plug-in_Manifest_Editor%3F","FAQ How do I create a form-based editor, such as the plug-in Manifest Editor?"
+11111,,How do I create a graphical editor?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_graphical_editor%3F,FAQ How do I create a graphical editor?
+11112,,How do I make an editor that contains another editor?,http://wiki.eclipse.org/FAQ_How_do_I_make_an_editor_that_contains_another_editor%3F,FAQ How do I make an editor that contains another editor?
+11201,"Actions, Commands, and Activities","Actions, commands, operations, jobs: What does it all mean?","http://wiki.eclipse.org/FAQ_Actions,_commands,_operations,_jobs:_What_does_it_all_mean%3F","FAQ Actions, commands, operations, jobs: What does it all mean?"
+11202,,What is an action set?,http://wiki.eclipse.org/FAQ_What_is_an_action_set%3F,FAQ What is an action set?
+11203,,How do I make my action set visible?,http://wiki.eclipse.org/FAQ_How_do_I_make_my_action_set_visible%3F,FAQ How do I make my action set visible?
+11204,,How do I add actions to the global toolbar?,http://wiki.eclipse.org/FAQ_How_do_I_add_actions_to_the_global_toolbar%3F,FAQ How do I add actions to the global toolbar?
+11205,,How do I add menus to the main menu?,http://wiki.eclipse.org/FAQ_How_do_I_add_menus_to_the_main_menu%3F,FAQ How do I add menus to the main menu?
+11206,,How do I add actions to the main menu?,http://wiki.eclipse.org/FAQ_How_do_I_add_actions_to_the_main_menu%3F,FAQ How do I add actions to the main menu?
+11207,,Why are some actions activated without a target?,http://wiki.eclipse.org/FAQ_Why_are_some_actions_activated_without_a_target%3F,FAQ Why are some actions activated without a target?
+11208,,Where can I find a list of existing action group names?,http://wiki.eclipse.org/FAQ_Where_can_I_find_a_list_of_existing_action_group_names%3F,FAQ Where can I find a list of existing action group names?
+11209,,What is the difference between a command and an action?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_command_and_an_action%3F,FAQ What is the difference between a command and an action?
+11210,,How do I associate an action with a command?,http://wiki.eclipse.org/FAQ_How_do_I_associate_an_action_with_a_command%3F,FAQ How do I associate an action with a command?
+11211,,How do I create my own key-binding configuration?,http://wiki.eclipse.org/FAQ_How_do_I_create_my_own_key-binding_configuration%3F,FAQ How do I create my own key-binding configuration?
+11212,,How do I provide a keyboard shortcut for my action?,http://wiki.eclipse.org/FAQ_How_do_I_provide_a_keyboard_shortcut_for_my_action%3F,FAQ How do I provide a keyboard shortcut for my action?
+11213,,How can I change the name or tooltip of my action?,http://wiki.eclipse.org/FAQ_How_can_I_change_the_name_or_tooltip_of_my_action%3F,FAQ How can I change the name or tooltip of my action?
+11214,,"How do I hook into global actions, such as Copy and Delete?","http://wiki.eclipse.org/FAQ_How_do_I_hook_into_global_actions,_such_as_Copy_and_Delete%3F","FAQ How do I hook into global actions, such as Copy and Delete?"
+11215,,How do I build menus and toolbars programmatically?,http://wiki.eclipse.org/FAQ_How_do_I_build_menus_and_toolbars_programmatically%3F,FAQ How do I build menus and toolbars programmatically?
+11216,,How do I make menus with dynamic contents?,http://wiki.eclipse.org/FAQ_How_do_I_make_menus_with_dynamic_contents%3F,FAQ How do I make menus with dynamic contents?
+11217,,What is the difference between a toolbar and a cool bar?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_toolbar_and_a_cool_bar%3F,FAQ What is the difference between a toolbar and a cool bar?
+11218,,How to create a context menu &amp; add actions to the same?,http://wiki.eclipse.org/FAQ_How_to_create_a_context_menu_%26_add_actions_to_the_same%3F,FAQ How to create a context menu &amp; add actions to the same?
+11219,,Can other plug-ins add actions to my part's context menu?,http://wiki.eclipse.org/FAQ_Can_other_plug-ins_add_actions_to_my_part%27s_context_menu%3F,FAQ Can other plug-ins add actions to my part's context menu?
+11220,,How do I add other plug-ins' actions to my menus?,http://wiki.eclipse.org/FAQ_How_do_I_add_other_plug-ins%27_actions_to_my_menus%3F,FAQ How do I add other plug-ins' actions to my menus?
+11221,,What is the purpose of activities?,http://wiki.eclipse.org/FAQ_What_is_the_purpose_of_activities%3F,FAQ What is the purpose of activities?
+11222,,How do I add activities to my plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_add_activities_to_my_plug-in%3F,FAQ How do I add activities to my plug-in?
+11223,,How do activities get enabled?,http://wiki.eclipse.org/FAQ_How_do_activities_get_enabled%3F,FAQ How do activities get enabled?
+11224,,What is the difference between perspectives and activities?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_perspectives_and_activities%3F,FAQ What is the difference between perspectives and activities?
+11301,uilding Your Own Application,What is an Eclipse application?,http://wiki.eclipse.org/FAQ_What_is_an_Eclipse_application%3F,FAQ What is an Eclipse application?
+11302,,How do I create an application?,http://wiki.eclipse.org/FAQ_How_do_I_create_an_application%3F,FAQ How do I create an application?
+11303,,What is the minimal Eclipse configuration?,http://wiki.eclipse.org/FAQ_What_is_the_minimal_Eclipse_configuration%3F,FAQ What is the minimal Eclipse configuration?
+11304,,How do I create a Rich Client application?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_Rich_Client_application%3F,FAQ How do I create a Rich Client application?
+11305,,How do I customize the menus in an RCP application?,http://wiki.eclipse.org/FAQ_How_do_I_customize_the_menus_in_an_RCP_application%3F,FAQ How do I customize the menus in an RCP application?
+11306,,How do I make key bindings work in an RCP application?,http://wiki.eclipse.org/FAQ_How_do_I_make_key_bindings_work_in_an_RCP_application%3F,FAQ How do I make key bindings work in an RCP application?
+11307,,Can I create an application that doesn't have views or editors?,http://wiki.eclipse.org/FAQ_Can_I_create_an_application_that_doesn%27t_have_views_or_editors%3F,FAQ Can I create an application that doesn't have views or editors?
+11308,,How do I specify where application data is stored?,http://wiki.eclipse.org/FAQ_How_do_I_specify_where_application_data_is_stored%3F,FAQ How do I specify where application data is stored?
+11309,,Can I create an application that doesn't have a data location?,http://wiki.eclipse.org/FAQ_Can_I_create_an_application_that_doesn%27t_have_a_data_location%3F,FAQ Can I create an application that doesn't have a data location?
+11310,,What is an Eclipse product?,http://wiki.eclipse.org/FAQ_What_is_an_Eclipse_product%3F,FAQ What is an Eclipse product?
+11311,,How do I create an Eclipse product?,http://wiki.eclipse.org/FAQ_How_do_I_create_an_Eclipse_product%3F,FAQ How do I create an Eclipse product?
+11312,,What is the difference between a product and an application?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_product_and_an_application%3F,FAQ What is the difference between a product and an application?
+11313,,How do I distribute my Eclipse offering?,http://wiki.eclipse.org/FAQ_How_do_I_distribute_my_Eclipse_offering%3F,FAQ How do I distribute my Eclipse offering?
+11314,,Can I use an installation program to distribute my Eclipse product?,http://wiki.eclipse.org/FAQ_Can_I_use_an_installation_program_to_distribute_my_Eclipse_product%3F,FAQ Can I use an installation program to distribute my Eclipse product?
+11315,,Can I install my product as an add-on to another product?,http://wiki.eclipse.org/FAQ_Can_I_install_my_product_as_an_add-on_to_another_product%3F,FAQ Can I install my product as an add-on to another product?
+11401,Productizing an Eclipse Offering,Where do I find suitable Eclipse logos and wordmarks?,http://wiki.eclipse.org/FAQ_Where_do_I_find_suitable_Eclipse_logos_and_wordmarks%3F,FAQ Where do I find suitable Eclipse logos and wordmarks?
+11402,,When do I need to write a plug-in install handler?,http://wiki.eclipse.org/FAQ_When_do_I_need_to_write_a_plug-in_install_handler%3F,FAQ When do I need to write a plug-in install handler?
+11403,,How do I support multiple natural languages in my plug-in messages?,http://wiki.eclipse.org/FAQ_How_do_I_support_multiple_natural_languages_in_my_plug-in_messages%3F,FAQ How do I support multiple natural languages in my plug-in messages?
+11404,,How do I replace the Eclipse workbench window icon with my own?,http://wiki.eclipse.org/FAQ_How_do_I_replace_the_Eclipse_workbench_window_icon_with_my_own%3F,FAQ How do I replace the Eclipse workbench window icon with my own?
+11405,,How do I write my own eclipseexe platform launcher?,http://wiki.eclipse.org/FAQ_How_do_I_write_my_own_eclipseexe_platform_launcher%3F,FAQ How do I write my own eclipseexe platform launcher?
+11406,,Who shows the Eclipse splash screen?,http://wiki.eclipse.org/FAQ_Who_shows_the_Eclipse_splash_screen%3F,FAQ Who shows the Eclipse splash screen?
+11407,,How can I publish partial upgrades (patches) to my product?,http://wiki.eclipse.org/FAQ_How_can_I_publish_partial_upgrades_(patches)_to_my_product%3F,FAQ How can I publish partial upgrades (patches) to my product?
+11501,Text Editors,What support is there for creating custom text editors?,http://wiki.eclipse.org/FAQ_What_support_is_there_for_creating_custom_text_editors%3F,FAQ What support is there for creating custom text editors?
+11502,,I'm still confused! How do all the editor pieces fit together?,http://wiki.eclipse.org/FAQ_I%27m_still_confused!_How_do_all_the_editor_pieces_fit_together%3F,FAQ I'm still confused! How do all the editor pieces fit together?
+11503,,How do I get started with creating a custom text editor?,http://wiki.eclipse.org/FAQ_How_do_I_get_started_with_creating_a_custom_text_editor%3F,FAQ How do I get started with creating a custom text editor?
+11504,,How do I use the text document model?,http://wiki.eclipse.org/FAQ_How_do_I_use_the_text_document_model%3F,FAQ How do I use the text document model?
+11505,,What is a document partition?,http://wiki.eclipse.org/FAQ_What_is_a_document_partition%3F,FAQ What is a document partition?
+11506,,How do I add Content Assist to my editor?,http://wiki.eclipse.org/FAQ_How_do_I_add_Content_Assist_to_my_editor%3F,FAQ How do I add Content Assist to my editor?
+11507,,How do I provide syntax coloring in an editor?,http://wiki.eclipse.org/FAQ_How_do_I_provide_syntax_coloring_in_an_editor%3F,FAQ How do I provide syntax coloring in an editor?
+11508,,How do I support formatting in my editor?,http://wiki.eclipse.org/FAQ_How_do_I_support_formatting_in_my_editor%3F,FAQ How do I support formatting in my editor?
+11509,,How do I insert text in the active text editor?,http://wiki.eclipse.org/FAQ_How_do_I_insert_text_in_the_active_text_editor%3F,FAQ How do I insert text in the active text editor?
+11510,,What is the difference between highlight range and selection?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_highlight_range_and_selection%3F,FAQ What is the difference between highlight range and selection?
+11511,,How do I change the selection on a double-click in my editor?,http://wiki.eclipse.org/FAQ_How_do_I_change_the_selection_on_a_double-click_in_my_editor%3F,FAQ How do I change the selection on a double-click in my editor?
+11512,,How do I use a model reconciler?,http://wiki.eclipse.org/FAQ_How_do_I_use_a_model_reconciler%3F,FAQ How do I use a model reconciler?
+11601,"Help, Search, and Compare",How do I add help content to my plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_add_help_content_to_my_plug-in%3F,FAQ How do I add help content to my plug-in?
+11602,,How do I provide F1 help?,http://wiki.eclipse.org/FAQ_How_do_I_provide_F1_help%3F,FAQ How do I provide F1 help?
+11603,,How do I contribute help contexts?,http://wiki.eclipse.org/FAQ_How_do_I_contribute_help_contexts%3F,FAQ How do I contribute help contexts?
+11604,,How can I generate HTML and toc.xml files?,http://wiki.eclipse.org/FAQ_How_can_I_generate_HTML_and_toc.xml_files%3F,FAQ How can I generate HTML and toc.xml files?
+11605,,How do I write a Search dialog?,http://wiki.eclipse.org/FAQ_How_do_I_write_a_Search_dialog%3F,FAQ How do I write a Search dialog?
+11606,,How do I implement a search operation?,http://wiki.eclipse.org/FAQ_How_do_I_implement_a_search_operation%3F,FAQ How do I implement a search operation?
+11607,,How do I display search results?,http://wiki.eclipse.org/FAQ_How_do_I_display_search_results%3F,FAQ How do I display search results?
+11608,,How can I use and extend the compare infrastructure?,http://wiki.eclipse.org/FAQ_How_can_I_use_and_extend_the_compare_infrastructure%3F,FAQ How can I use and extend the compare infrastructure?
+11609,,How do I create a Compare dialog?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_Compare_dialog%3F,FAQ How do I create a Compare dialog?
+11610,,How do I create a compare editor?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_compare_editor%3F,FAQ How do I create a compare editor?
+11611,,How can I run an infocenter on different servers?,http://wiki.eclipse.org/FAQ_How_can_I_run_an_infocenter_on_different_servers%3F,FAQ How can I run an infocenter on different servers?
+11701,Workspace and Resources API,How are resources created?,http://wiki.eclipse.org/FAQ_How_are_resources_created%3F,FAQ How are resources created?
+11702,,Can I create resources that don't reside in the file system?,http://wiki.eclipse.org/FAQ_Can_I_create_resources_that_don%27t_reside_in_the_file_system%3F,FAQ Can I create resources that don't reside in the file system?
+11703,,What is the difference between a path and a location?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_path_and_a_location%3F,FAQ What is the difference between a path and a location?
+11704,,When should I use refreshLocal?,http://wiki.eclipse.org/FAQ_When_should_I_use_refreshLocal%3F,FAQ When should I use refreshLocal?
+11705,,"How do I create my own tasks, problems, bookmarks, and so on?","http://wiki.eclipse.org/FAQ_How_do_I_create_my_own_tasks,_problems,_bookmarks,_and_so_on%3F","FAQ How do I create my own tasks, problems, bookmarks, and so on?"
+11706,,How can I be notified of changes to the workspace?,http://wiki.eclipse.org/FAQ_How_can_I_be_notified_of_changes_to_the_workspace%3F,FAQ How can I be notified of changes to the workspace?
+11707,,How do I prevent builds between multiple changes to the workspace?,http://wiki.eclipse.org/FAQ_How_do_I_prevent_builds_between_multiple_changes_to_the_workspace%3F,FAQ How do I prevent builds between multiple changes to the workspace?
+11708,,Why should I add my own project nature?,http://wiki.eclipse.org/FAQ_Why_should_I_add_my_own_project_nature%3F,FAQ Why should I add my own project nature?
+11709,,Where can I find information about writing builders?,http://wiki.eclipse.org/FAQ_Where_can_I_find_information_about_writing_builders%3F,FAQ Where can I find information about writing builders?
+11710,,How do I store extra properties on a resource?,http://wiki.eclipse.org/FAQ_How_do_I_store_extra_properties_on_a_resource%3F,FAQ How do I store extra properties on a resource?
+11711,,How can I be notified on property changes on a resource?,http://wiki.eclipse.org/FAQ_How_can_I_be_notified_on_property_changes_on_a_resource%3F,FAQ How can I be notified on property changes on a resource?
+11712,,How and when do I save the workspace?,http://wiki.eclipse.org/FAQ_How_and_when_do_I_save_the_workspace%3F,FAQ How and when do I save the workspace?
+11713,,How can I be notified when the workspace is being saved?,http://wiki.eclipse.org/FAQ_How_can_I_be_notified_when_the_workspace_is_being_saved%3F,FAQ How can I be notified when the workspace is being saved?
+11714,,Where is the workspace local history stored?,http://wiki.eclipse.org/FAQ_Where_is_the_workspace_local_history_stored%3F,FAQ Where is the workspace local history stored?
+11715,,How can I repair a workspace that is broken?,http://wiki.eclipse.org/FAQ_How_can_I_repair_a_workspace_that_is_broken%3F,FAQ How can I repair a workspace that is broken?
+11716,,What support does the workspace have for team tools?,http://wiki.eclipse.org/FAQ_What_support_does_the_workspace_have_for_team_tools%3F,FAQ What support does the workspace have for team tools?
+11801,Workbench IDE,How do I open an editor on a file in the workspace?,http://wiki.eclipse.org/FAQ_How_do_I_open_an_editor_on_a_file_in_the_workspace%3F,FAQ How do I open an editor on a file in the workspace?
+11802,,How do I open an editor on a file outside the workspace?,http://wiki.eclipse.org/FAQ_How_do_I_open_an_editor_on_a_file_outside_the_workspace%3F,FAQ How do I open an editor on a file outside the workspace?
+11803,,How do I open an editor on something that is not a file?,http://wiki.eclipse.org/FAQ_How_do_I_open_an_editor_on_something_that_is_not_a_file%3F,FAQ How do I open an editor on something that is not a file?
+11804,,Why don't my markers show up in the Tasks view?,http://wiki.eclipse.org/FAQ_Why_don%27t_my_markers_show_up_in_the_Tasks_view%3F,FAQ Why don't my markers show up in the Tasks view?
+11805,,Why don't my markers appear in the editor's vertical ruler?,http://wiki.eclipse.org/FAQ_Why_don%27t_my_markers_appear_in_the_editor%27s_vertical_ruler%3F,FAQ Why don't my markers appear in the editor's vertical ruler?
+11806,,How do I access the active project?,http://wiki.eclipse.org/FAQ_How_do_I_access_the_active_project%3F,FAQ How do I access the active project?
+11807,,"What are IWorkspaceRunnable, IRunnableWithProgress, and WorkspaceModifyOperation?","http://wiki.eclipse.org/FAQ_What_are_IWorkspaceRunnable,_IRunnableWithProgress,_and_WorkspaceModifyOperation%3F","FAQ What are IWorkspaceRunnable, IRunnableWithProgress, and WorkspaceModifyOperation?"
+11808,,How do I write to the console from a plug-in?,http://wiki.eclipse.org/FAQ_How_do_I_write_to_the_console_from_a_plug-in%3F,FAQ How do I write to the console from a plug-in?
+11809,,How do I prompt the user to select a resource?,http://wiki.eclipse.org/FAQ_How_do_I_prompt_the_user_to_select_a_resource%3F,FAQ How do I prompt the user to select a resource?
+11810,,Can I use the actions from the Navigator in my own plug-in?,http://wiki.eclipse.org/FAQ_Can_I_use_the_actions_from_the_Navigator_in_my_own_plug-in%3F,FAQ Can I use the actions from the Navigator in my own plug-in?
+11811,,What APIs exist for integrating repository clients into Eclipse?,http://wiki.eclipse.org/FAQ_What_APIs_exist_for_integrating_repository_clients_into_Eclipse%3F,FAQ What APIs exist for integrating repository clients into Eclipse?
+11812,,How do I deploy projects to a server and keep the two synchronized?,http://wiki.eclipse.org/FAQ_How_do_I_deploy_projects_to_a_server_and_keep_the_two_synchronized%3F,FAQ How do I deploy projects to a server and keep the two synchronized?
+11813,,What is the difference between a repository provider and a team subscriber?,http://wiki.eclipse.org/FAQ_What_is_the_difference_between_a_repository_provider_and_a_team_subscriber%3F,FAQ What is the difference between a repository provider and a team subscriber?
+11814,,What is a launch configuration?,http://wiki.eclipse.org/FAQ_What_is_a_launch_configuration%3F,FAQ What is a launch configuration?
+11815,,When do I use a launch delegate?,http://wiki.eclipse.org/FAQ_When_do_I_use_a_launch_delegate%3F,FAQ When do I use a launch delegate?
+11816,,What is Ant?,http://wiki.eclipse.org/FAQ_What_is_Ant%3F,FAQ What is Ant?
+11817,,Why can't my Ant build find javac?,http://wiki.eclipse.org/FAQ_Why_can%27t_my_Ant_build_find_javac%3F,FAQ Why can't my Ant build find javac?
+11818,,How do I add my own external tools?,http://wiki.eclipse.org/FAQ_How_do_I_add_my_own_external_tools%3F,FAQ How do I add my own external tools?
+11819,,How do I create an external tool builder?,http://wiki.eclipse.org/FAQ_How_do_I_create_an_external_tool_builder%3F,FAQ How do I create an external tool builder?
+11901,Implementing Support for Your Own Language,What is eScript?,http://wiki.eclipse.org/FAQ_What_is_eScript%3F,FAQ What is eScript?
+11902,,Language integration phase 1: How do I compile and build programs?,http://wiki.eclipse.org/FAQ_Language_integration_phase_1:_How_do_I_compile_and_build_programs%3F,FAQ Language integration phase 1: How do I compile and build programs?
+11903,,How do I load source files edited outside Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_load_source_files_edited_outside_Eclipse%3F,FAQ How do I load source files edited outside Eclipse?
+11904,,How do I run an external builder on my source files?,http://wiki.eclipse.org/FAQ_How_do_I_run_an_external_builder_on_my_source_files%3F,FAQ How do I run an external builder on my source files?
+11905,,How do I implement a compiler that runs inside Eclipse?,http://wiki.eclipse.org/FAQ_How_do_I_implement_a_compiler_that_runs_inside_Eclipse%3F,FAQ How do I implement a compiler that runs inside Eclipse?
+11906,,How do I react to changes in source files?,http://wiki.eclipse.org/FAQ_How_do_I_react_to_changes_in_source_files%3F,FAQ How do I react to changes in source files?
+11907,,How do I implement an Eclipse builder?,http://wiki.eclipse.org/FAQ_How_do_I_implement_an_Eclipse_builder%3F,FAQ How do I implement an Eclipse builder?
+11908,,Where are project build specifications stored?,http://wiki.eclipse.org/FAQ_Where_are_project_build_specifications_stored%3F,FAQ Where are project build specifications stored?
+11909,,How do I add a builder to a given project?,http://wiki.eclipse.org/FAQ_How_do_I_add_a_builder_to_a_given_project%3F,FAQ How do I add a builder to a given project?
+11910,,How do I implement an incremental project builder?,http://wiki.eclipse.org/FAQ_How_do_I_implement_an_incremental_project_builder%3F,FAQ How do I implement an incremental project builder?
+11911,,How do I handle setup problems for a given builder?,http://wiki.eclipse.org/FAQ_How_do_I_handle_setup_problems_for_a_given_builder%3F,FAQ How do I handle setup problems for a given builder?
+11912,,How do I make my compiler incremental?,http://wiki.eclipse.org/FAQ_How_do_I_make_my_compiler_incremental%3F,FAQ How do I make my compiler incremental?
+11913,,Language integration phase 2: How do I implement a DOM?,http://wiki.eclipse.org/FAQ_Language_integration_phase_2:_How_do_I_implement_a_DOM%3F,FAQ Language integration phase 2: How do I implement a DOM?
+11914,,How do I implement a DOM for my language?,http://wiki.eclipse.org/FAQ_How_do_I_implement_a_DOM_for_my_language%3F,FAQ How do I implement a DOM for my language?
+11915,,How can I ensure that my model is scalable?,http://wiki.eclipse.org/FAQ_How_can_I_ensure_that_my_model_is_scalable%3F,FAQ How can I ensure that my model is scalable?
+11916,,Language integration phase 3: How do I edit programs?,http://wiki.eclipse.org/FAQ_Language_integration_phase_3:_How_do_I_edit_programs%3F,FAQ Language integration phase 3: How do I edit programs?
+11917,,How do I write an editor for my own language?,http://wiki.eclipse.org/FAQ_How_do_I_write_an_editor_for_my_own_language%3F,FAQ How do I write an editor for my own language?
+11918,,How do I add Content Assist to my language editor?,http://wiki.eclipse.org/FAQ_How_do_I_add_Content_Assist_to_my_language_editor%3F,FAQ How do I add Content Assist to my language editor?
+11919,,How do I add hover support to my text editor?,http://wiki.eclipse.org/FAQ_How_do_I_add_hover_support_to_my_text_editor%3F,FAQ How do I add hover support to my text editor?
+11920,,How do I create problem markers for my compiler?,http://wiki.eclipse.org/FAQ_How_do_I_create_problem_markers_for_my_compiler%3F,FAQ How do I create problem markers for my compiler?
+11921,,How do I implement Quick Fixes for my own language?,http://wiki.eclipse.org/FAQ_How_do_I_implement_Quick_Fixes_for_my_own_language%3F,FAQ How do I implement Quick Fixes for my own language?
+11922,,How do I support refactoring for my own language?,http://wiki.eclipse.org/FAQ_How_do_I_support_refactoring_for_my_own_language%3F,FAQ How do I support refactoring for my own language?
+11923,,How do I create an Outline view for my own language editor?,http://wiki.eclipse.org/FAQ_How_do_I_create_an_Outline_view_for_my_own_language_editor%3F,FAQ How do I create an Outline view for my own language editor?
+11924,,Language integration phase 4: What are the finishing touches?,http://wiki.eclipse.org/FAQ_Language_integration_phase_4:_What_are_the_finishing_touches%3F,FAQ Language integration phase 4: What are the finishing touches?
+11925,,What wizards do I define for my own language?,http://wiki.eclipse.org/FAQ_What_wizards_do_I_define_for_my_own_language%3F,FAQ What wizards do I define for my own language?
+11926,,When does my language need its own nature?,http://wiki.eclipse.org/FAQ_When_does_my_language_need_its_own_nature%3F,FAQ When does my language need its own nature?
+11927,,When does my language need its own perspective?,http://wiki.eclipse.org/FAQ_When_does_my_language_need_its_own_perspective%3F,FAQ When does my language need its own perspective?
+11928,,How do I add documentation and help for my own language?,http://wiki.eclipse.org/FAQ_How_do_I_add_documentation_and_help_for_my_own_language%3F,FAQ How do I add documentation and help for my own language?
+11929,,How do I support source-level debugging for my own language?,http://wiki.eclipse.org/FAQ_How_do_I_support_source-level_debugging_for_my_own_language%3F,FAQ How do I support source-level debugging for my own language?
+12001,Java Development Tool API,How do I extend the JDT?,http://wiki.eclipse.org/FAQ_How_do_I_extend_the_JDT%3F,FAQ How do I extend the JDT?
+12002,,What is the Java model?,http://wiki.eclipse.org/FAQ_What_is_the_Java_model%3F,FAQ What is the Java model?
+12003,,How do I create Java elements?,http://wiki.eclipse.org/FAQ_How_do_I_create_Java_elements%3F,FAQ How do I create Java elements?
+12004,,How do I create a Java project?,http://wiki.eclipse.org/FAQ_How_do_I_create_a_Java_project%3F,FAQ How do I create a Java project?
+12005,,How do I manipulate Java code?,http://wiki.eclipse.org/FAQ_How_do_I_manipulate_Java_code%3F,FAQ How do I manipulate Java code?
+12006,,What is a working copy?,http://wiki.eclipse.org/FAQ_What_is_a_working_copy%3F,FAQ What is a working copy?
+12007,,What is a JDOM?,http://wiki.eclipse.org/FAQ_What_is_a_JDOM%3F,FAQ What is a JDOM?
+12008,,What is an AST?,http://wiki.eclipse.org/FAQ_What_is_an_AST%3F,FAQ What is an AST?
+12009,,How do I create and examine an AST?,http://wiki.eclipse.org/FAQ_How_do_I_create_and_examine_an_AST%3F,FAQ How do I create and examine an AST?
+12010,,How do I distinguish between internal and external JARs on the build path?,http://wiki.eclipse.org/FAQ_How_do_I_distinguish_between_internal_and_external_JARs_on_the_build_path%3F,FAQ How do I distinguish between internal and external JARs on the build path?
+12011,,How do I launch a Java program?,http://wiki.eclipse.org/FAQ_How_do_I_launch_a_Java_program%3F,FAQ How do I launch a Java program?
+12012,,What is JUnit?,http://wiki.eclipse.org/FAQ_What_is_JUnit%3F,FAQ What is JUnit?
+12013,,How do I participate in a refactoring?,http://wiki.eclipse.org/FAQ_How_do_I_participate_in_a_refactoring%3F,FAQ How do I participate in a refactoring?
+12014,,What is LTK?,http://wiki.eclipse.org/FAQ_What_is_LTK%3F,FAQ What is LTK?
