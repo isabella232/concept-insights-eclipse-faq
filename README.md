@@ -31,7 +31,7 @@ Make sure the following tools are installed and on your path.
 
 Invoke the following command to download the project.
 
-> git clone https://github.com/IBM-Bluemix/controller-kinect-bluemix.git
+> git clone https://github.com/IBM-Bluemix/concept-insights-eclipse-faq.git
 
 
 Download Eclipse FAQs
