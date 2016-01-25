@@ -31,7 +31,9 @@ Make sure the following tools are installed and on your path.
 
 Invoke the following command to download the project.
 
-> git clone https://github.com/IBM-Bluemix/concept-insights-eclipse-faq.git
+```sh
+$ git clone https://github.com/IBM-Bluemix/concept-insights-eclipse-faq.git
+```
 
 
 Download Eclipse FAQs
@@ -39,8 +41,10 @@ Download Eclipse FAQs
 
 In order to download the Eclipse FAQs as HTML files invoke these commands.
 
-> mkdir html
-> python download.py -c OfficialEclipseFAQs.csv -o html
+```sh
+$ mkdir html
+$ python download.py -c OfficialEclipseFAQs.csv -o html
+```
 
 
 Convert HTML Files
@@ -50,8 +54,10 @@ In order to extract the content from the HTML files the [Document Conversion](ht
 
 After this invoke these commands. Replace 'username:password' with your credentials.
 
-> mkdir converted
-> python convert.py -u username:password -c OfficialEclipseFAQs.csv -i html -o converted
+```sh
+$ mkdir converted
+$ python convert.py -u username:password -c OfficialEclipseFAQs.csv -i html -o converted
+```
 
 
 Upload Documents to Watson
@@ -61,15 +67,21 @@ For the next steps you need to create an instance of the [Concept Insights](http
 
 After this you need to get your account_id via the following command. Check out the [API Explorer](https://watson-api-explorer.mybluemix.net/apis/concept-insights-v2) to find out more. Replace 'username:password' with your credentials.
 
-> curl -u username:password 'https://gateway.watsonplatform.net/concept-insights/api/v2/accounts'
+```sh
+$ curl -u username:password 'https://gateway.watsonplatform.net/concept-insights/api/v2/accounts'
+```
 
 Next you need to create your own corpus 'eclipseFAQCorpus'. Replace 'username:password' with your credentials and enter your account_id.
 
-> curl -u username:password -X PUT -d '{}' 'https://gateway.watsonplatform.net/concept-insights/api/v2/corpora/your-account_id/eclipseFAQCorpus'
+```sh
+$ curl -u username:password -X PUT -d '{}' 'https://gateway.watsonplatform.net/concept-insights/api/v2/corpora/your-account_id/eclipseFAQCorpus'
+```
 
 In the last step invoke the following command to upload the data to Watson. Replace 'username:password' with your credentials and enter your account_id.
 
-> python upload.py -u username:password -a your-account_id -c OfficialEclipseFAQs.csv -i converted
+```sh
+$ python upload.py -u username:password -a your-account_id -c OfficialEclipseFAQs.csv -i converted
+```
 
 
 Try the Sample
